@@ -1,1 +1,3 @@
-Hello Student test
+Hello Student
+test Pass
+merge conflict solved
